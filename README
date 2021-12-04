@@ -1,0 +1,7 @@
+Firewalld Log Parser
+--------------------
+
+A simple bash script that parses firewalld logs and presents them nicely at CLI
+script: myfirewall.sh
+Logs are read from /var/log/firewalld; if your location varies, please change accordingly
+Requires sudo access (to be able to read the logs, unless you have made them readabel to your user)
