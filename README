@@ -1,5 +1,4 @@
-Firewalld Log Parser
---------------------
+# Firewalld Log Parser
 
 A simple bash script that parses firewalld logs and presents them nicely at CLI
 script: myfirewall.sh
